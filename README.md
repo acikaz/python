@@ -1,2 +1,5 @@
-# python
-python_works
+First repository
+
+Hi humans!
+
+Just learning Python :)
