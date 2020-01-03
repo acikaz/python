@@ -1,3 +1,4 @@
+#Sabiranje vise brojeva iz razlicite liste
 def sumtree(L):
     tot =0
     for x in L:
