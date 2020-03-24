@@ -1,5 +1,1 @@
-First repository
-
-Hi humans!
-
-Just learning Python :)
+Some of the first python exercises :)
